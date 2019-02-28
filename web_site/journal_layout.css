@@ -1,0 +1,51 @@
+#container{
+	border-style: solid;
+	border-width: 10px;
+	border-color: white;
+	background-color: white;
+	margin-left: 10%;
+	margin-right: 10%;	 
+}
+.top-block{
+	background-color: #A8F0F0;
+}
+#block{
+	font-size: 14pt; 
+}
+#date1{
+	border-bottom: 2px dashed blue;
+}
+#date2{
+	border-bottom: 2px solid blue;
+}
+.main-block{
+	border-style: solid;
+	border-width: 4px;
+	border-color: #C2E9E9;
+	background-color: #E8FBFB;
+	margin: 10px 0px 0px 0px;
+	padding: 5px 5px 5px 5px;
+	overflow: auto;
+	
+}
+h1:hover, h2:hover, p:hover, img:hover, a:hover{
+	background-color: pink;
+}
+img{
+
+	float: right;
+} 
+.border{
+	border-style: solid;
+	border-width: 5px;
+	border-color: grey;
+	background-color: white;
+	float: left;
+	padding: 5px;
+	margin: 10px 5px;	
+}
+.right-hidden-overflow{
+	overflow: hidden;
+}
+
+
